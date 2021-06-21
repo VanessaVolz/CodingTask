@@ -11,3 +11,6 @@ of service owner authentication.
 - Spring Security
 - H2
 - Apache Commons CSV 1.8
+
+## Execution
+Please refer to Postman Collection for sending requests [here](CodingTask.postman_collection.json).
